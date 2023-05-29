@@ -3,7 +3,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder
 from scipy import stats
 from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import GridSearchCV
 from imblearn.over_sampling import SMOTE
 
 df = pd.read_csv("/content/term-deposit-marketing-2020.csv")
