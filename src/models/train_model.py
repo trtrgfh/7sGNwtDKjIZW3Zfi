@@ -1,7 +1,7 @@
 import xgboost as xgb
-from sklearn.metrics import precision_score, recall_score, accuracy_score, f1_score, make_scorer
 import pickle
 from sklearn.model_selection import KFold
+from make_dataset import *
 
 param_grid = {
     'max_depth': [3, 5, 7],
