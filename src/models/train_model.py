@@ -1,6 +1,7 @@
 import xgboost as xgb
 import pickle
 from sklearn.model_selection import KFold
+from sklearn.model_selection import GridSearchCV
 from make_dataset import *
 
 param_grid = {
