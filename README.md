@@ -16,5 +16,5 @@ Our focus is to create a robust machine learning system that harnesses insights 
 Dataset used can be found in the data folder.
 
 # Results and evaluation
-<img src="https://github.com/trtrgfh/Term_Deposit_Marketing/assets/73056232/2f60afce-4cfd-4cbe-9d58-457dde83372e" width="750"/>
-<img src="https://github.com/trtrgfh/Term_Deposit_Marketing/assets/73056232/c6a27b63-d08c-4831-bcb0-78e9b790ada7" width="500"/>
+<img src="https://github.com/trtrgfh/Term_Deposit_Marketing/assets/73056232/2f60afce-4cfd-4cbe-9d58-457dde83372e" width="1000"/>
+<img src="https://github.com/trtrgfh/Term_Deposit_Marketing/assets/73056232/c6a27b63-d08c-4831-bcb0-78e9b790ada7" width="700"/>
